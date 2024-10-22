@@ -1,0 +1,13 @@
+producstSection{
+    margin-bottom: 4rem;
+}
+
+.productList{
+    display: flex;
+    gap: 2.5rem;
+    overflow: auto;
+}
+
+.productList li{
+    min-width: 270px;
+}
